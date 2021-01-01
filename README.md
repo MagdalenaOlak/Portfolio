@@ -46,6 +46,5 @@ My name is Magdalena Olak. I discovered the profession of tester relatively rece
   - GeekON - Optymalizacja w SQL dla początkujących
   - Testuj.pl - Pierwszy test automatyczny
 
-
-## My test case examples
-  - [Test cases for Bank Project](https://drive.google.com/file/d/1vCcIfqch1gpQ6xhGKf0UOY8RGdMyfPXQ/view?usp=sharing)
+## My bug reports
+  - [Bugs reported for Guru99 Demo Site - Bank Project](https://drive.google.com/file/d/1vCcIfqch1gpQ6xhGKf0UOY8RGdMyfPXQ/view?usp=sharing)
