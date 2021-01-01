@@ -17,7 +17,7 @@ My name is Magdalena Olak. I discovered the profession of tester relatively rece
   - Software testing
   - Reporting bugs
   - SQL
-  - GIT
+  - GIT    
   - DevTools
   - SCRUM  
   - Finding unique CSS Selectors and xPaths
@@ -32,8 +32,8 @@ My name is Magdalena Olak. I discovered the profession of tester relatively rece
   - [Git dla Testerów](https://jaktestowac.pl/git/) 
 
 ## Technical Books read
-* R.Smilgin - Zawód tester
-* [Testowanie Oprogramowania](https://pwicherski.gitbook.io)
+* Radosław Smilgin - Zawód tester
+* Piotr Wicherski - [Testowanie Oprogramowania](https://pwicherski.gitbook.io) 
 
 ## Blogs read
 
@@ -46,3 +46,6 @@ My name is Magdalena Olak. I discovered the profession of tester relatively rece
   - GeekON - Optymalizacja w SQL dla początkujących
   - Testuj.pl - Pierwszy test automatyczny
 
+
+## My test case examples
+  - [Test cases for Bank Project](https://drive.google.com/file/d/1vCcIfqch1gpQ6xhGKf0UOY8RGdMyfPXQ/view?usp=sharing)
