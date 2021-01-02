@@ -6,6 +6,7 @@ My name is Magdalena Olak. I discovered the profession of tester relatively rece
   - [Postman](https://www.postman.com/) - Testing tool for REST API
   - [TestLink](https://bitnami.com/stack/testlink) - We-based open-source test management tool
   - [Selenium IDE](https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd) - Open source record and playback test automation for the web
+  - [SoupUI](https://www.soapui.org/tools/soapui/) - Testing tool for SOAP and REST APIs  
   - [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi?hl=pl) - Exploratory testing assistant for Chrome and Firefox
   - [Mouse Recorder](https://www.mouserecorder.com/) - mouse and keyboard recording macro
   - [xPath Finder](https://chrome.google.com/webstore/detail/xpath-finder/ihnknokegkbpmofmafnkoadfjkhlogph) - xPath finding tool
@@ -47,4 +48,4 @@ My name is Magdalena Olak. I discovered the profession of tester relatively rece
   - Testuj.pl - Pierwszy test automatyczny
 
 ## My bug reports
-  - [Bugs reported for Guru99 Demo Site - Bank Project](https://drive.google.com/file/d/1iG2O7dIyxpfhCWZtOoJkticp_VcQjqPC/view?usp=sharing)
+  - [Bugs reported for Guru99 Demo Site - Bank Project](https://drive.google.com/file/d/1_OIMrUsWhHQH0UySkRRPFyJZ8zO29GT1/view?usp=sharing)
