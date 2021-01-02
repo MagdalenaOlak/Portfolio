@@ -47,4 +47,4 @@ My name is Magdalena Olak. I discovered the profession of tester relatively rece
   - Testuj.pl - Pierwszy test automatyczny
 
 ## My bug reports
-  - [Bugs reported for Guru99 Demo Site - Bank Project](https://drive.google.com/file/d/1L_vQxZz5mlnY7Ai2FFJR7BxBIPj0-4qj/view?usp=sharing)
+  - [Bugs reported for Guru99 Demo Site - Bank Project](https://drive.google.com/file/d/1iG2O7dIyxpfhCWZtOoJkticp_VcQjqPC/view?usp=sharing)
