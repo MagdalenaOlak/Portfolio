@@ -63,3 +63,7 @@ My name is Magdalena Olak. I discovered the profession of tester relatively rece
 ## My bug reports
   - [Bugs reported for Guru99 Demo Site - Bank Project](https://drive.google.com/file/d/1_OIMrUsWhHQH0UySkRRPFyJZ8zO29GT1/view?usp=sharing)
 
+## My websites
+  - [e-Olak.pl](http://e-olak.pl)
+  - [orikonsultantka.pl](http://orikonsultantka.pl)
+
