@@ -35,7 +35,7 @@ My name is Magdalena Olak. I discovered the profession of tester relatively rece
   - PHP basics
   - UML
 
-## Education
+## Professional Education
 2020.10 - now - University of Information Technology and Management in Rzeszów, 
 Postgraduate – Software Tester
 
