@@ -66,7 +66,9 @@ My name is Magdalena Olak. I discovered the profession of tester relatively rece
 ## My test case examples
   - [Test cases for site "Tekstowo.pl"](https://drive.google.com/file/d/1ntDtBNFb4GHWhssaQyAfjCglTI6xMgkF/view?usp=sharing)
 
-## My websites
-  - [e-Olak.pl](http://e-olak.pl)
-  - [orikonsultantka.pl](http://orikonsultantka.pl)
-
+## My Projects
+  - [e-Olak.pl](http://e-olak.pl) - Website prepared for future Software Testers. In the articles, you will learn what problems testers are facing.
+  
+  - [ISTQB w pigułce](https://magdalenaolak.gitbook.io/istqb-w-pigulce/) - A document created for everyone who wants to learn the secrets of ISTQB Foundation Level in an easy and accessible way (work in progress).
+    
+- [Orikonsultantka.pl](http://orikonsultantka.pl) - Website created to build a distribution network in Oriflame.
