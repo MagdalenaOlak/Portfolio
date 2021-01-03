@@ -35,6 +35,35 @@ My name is Magdalena Olak. I discovered the profession of tester relatively rece
   - PHP basics
   - UML
 
+## Education
+020.10 - now - University of Information Technology and Management in Rzeszów, 
+Postgraduate – Software Tester
+
+    - Software testing planning
+    - Software manufacturing methods
+    - The role of a software tester in software projects
+    - Introduction to software testing
+    - Organisation of the software testing environment
+    - Testing applications for mobile devices
+    - Automation of tests
+    - Good practices in software testing
+    - Selected management elements in IT projects
+    - Testers in work teams
+      
+2014 - 2015 - Catholic University of Lublin, Poland - Postgraduate studies of Internet Technology and Multimedia Information Processing
+    
+    - Website design with the use of HTML and CSS
+    - Programming in PHP
+    - Database design (SQL/MySQL)
+    - Creating web applications using PHP frameworks
+    - Flash animations and applications
+    - Interactive web applications
+    - The basics of entrepreneurship for the IT industry
+    - Processing of computer graphics
+    - Creating websites in the content management system (CMS)
+    - Websites administration and publishing
+    - Photography workshops
+
 ## Certificates
   - [EITICA Information Technologies Telework Competencies Programme](https://eitci.org/validate) - ID: EITCA/TC/FMP14004773 
   - [EITC/INT/JOOM Website design and content managment systems fundamentals (Joomla) Programme](https://eitci.org/validate) - ID: EITC/INT/JOOM/NSB14004773
