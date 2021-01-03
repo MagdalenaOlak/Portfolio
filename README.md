@@ -36,7 +36,7 @@ My name is Magdalena Olak. I discovered the profession of tester relatively rece
   - UML
 
 ## Education
-020.10 - now - University of Information Technology and Management in Rzeszów, 
+2020.10 - now - University of Information Technology and Management in Rzeszów, 
 Postgraduate – Software Tester
 
     - Software testing planning
