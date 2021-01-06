@@ -88,6 +88,7 @@ Postgraduate – Software Tester
 ## Webinars
   - GeekON - Optymalizacja w SQL dla początkujących
   - Testuj.pl - Pierwszy test automatyczny
+  - Akademia Kodu - Podstawy programowania
 
 ## My bug reports
   - [Bugs reported for Guru99 Demo Site - Bank Project](https://drive.google.com/file/d/1_OIMrUsWhHQH0UySkRRPFyJZ8zO29GT1/view?usp=sharing)
@@ -100,4 +101,4 @@ Postgraduate – Software Tester
   
   - [ISTQB w pigułce](https://magdalenaolak.gitbook.io/istqb-w-pigulce/) - A document created for everyone who wants to learn the secrets of ISTQB Foundation Level in an easy and accessible way (work in progress).
     
-- [Orikonsultantka.pl](http://orikonsultantka.pl) - Website created to build a distribution network in Oriflame.
+  - [Orikonsultantka.pl](http://orikonsultantka.pl) - Website created to build a distribution network in Oriflame.
