@@ -104,5 +104,5 @@ Postgraduate – Software Tester
   - [Orikonsultantka.pl](http://orikonsultantka.pl) - Website created to build a distribution network in Oriflame.
 
   - Individual project - creating and testing site e-olak.pl
-    - Board [trello.com](https://trello.com/b/ZNyJkmc2/e-olakpl)
+    - Board [trello.com](https://trello.com/b/ZNyJkmc2/e-olakpl) - (in progress)
     
