@@ -95,7 +95,7 @@ Postgraduate – Software Tester
 
 ## My test case examples
   - [Test cases for site "Tekstowo.pl"](https://drive.google.com/file/d/1ntDtBNFb4GHWhssaQyAfjCglTI6xMgkF/view?usp=sharing)
-
+  - [Test cases for e-Olak.pl (responsive testing)](https://docs.google.com/spreadsheets/d/1nDiDnWB8NnpGTpesefPGGXRVDg4kp8OMRUn5wCkN7cg/edit?usp=sharing)
 ## My Projects
   - [e-Olak.pl](http://e-olak.pl) - Website prepared for future Software Testers. In the articles, you will learn what problems testers are facing.
   
@@ -103,6 +103,5 @@ Postgraduate – Software Tester
     
   - [Orikonsultantka.pl](http://orikonsultantka.pl) - Website created to build a distribution network in Oriflame.
 
-  - Individual project - Creating and testing site e-olak.pl
-    - Board [trello.com]()
+  
     
