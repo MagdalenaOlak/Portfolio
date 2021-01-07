@@ -99,12 +99,11 @@ Postgraduate – Software Tester
   - [Test cases for site "Tekstowo.pl"](https://drive.google.com/file/d/1ntDtBNFb4GHWhssaQyAfjCglTI6xMgkF/view?usp=sharing)
   - [Test cases for e-Olak.pl (responsive testing)](https://docs.google.com/spreadsheets/d/1nDiDnWB8NnpGTpesefPGGXRVDg4kp8OMRUn5wCkN7cg/edit?usp=sharing)
 ## My Projects
-  - [e-Olak.pl](http://e-olak.pl) - Website prepared for future Software Testers. In the articles, you will learn what problems testers are facing.
-  
-  - [ISTQB w pigułce](https://magdalenaolak.gitbook.io/istqb-w-pigulce/) - A document created for everyone who wants to learn the secrets of ISTQB Foundation Level in an easy and accessible way (work in progress).
     
-  - [Orikonsultantka.pl](http://orikonsultantka.pl) - Website created to build a distribution network in Oriflame.
+  - [ISTQB w pigułce](https://magdalenaolak.gitbook.io/istqb-w-pigulce/) - A document created for everyone who wants to learn the secrets of ISTQB Foundation Level in an easy and accessible way (work in progress).
 
   - Individual project - creating and testing site e-olak.pl:
-    - Board [trello.com](https://trello.com/b/ZNyJkmc2/e-olakpl) - (in progress).
-    
+    - Kanban Board [trello.com](https://trello.com/b/ZNyJkmc2/e-olakpl) - (in progress).
+  
+  - [e-Olak.pl](http://e-olak.pl) - Website prepared for future Software Testers. In the articles, you will learn what problems testers are facing.
+  - [Orikonsultantka.pl](http://orikonsultantka.pl) - Website created to build a distribution network in Oriflame.
