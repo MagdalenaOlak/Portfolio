@@ -3,6 +3,8 @@
 ## About me
 My name is Magdalena Olak. I discovered the profession of tester relatively recently and I liked it very much. I knew right away that I could quickly be very good at it because during the last 9 years I have been dealing with creating and testing websites using, among others, Jira, TestLink, GIT, HTTP, CSS, PHP and CMS. I also know the basics of SQL / MySQL. Last year I have completed 3 online courses and I have started postgraduate studies in the field of Software Tester. I have set my daily routine on the priority of learning as much as I can in the field of testing. I see the employment as a software tester as a milestone in my professional career thanks to the variety of tasks and the possibility of development. I'm oriented for further development as Software Tester/Software Test Engineer. On this site I would like to share my all gained experience from personal studies and researches.
 
+[LinkedIn](https://www.linkedin.com/in/magdalenaolak/)
+
 ## Tools
   - [Jira](https://www.atlassian.com/software/jira0), [Trello](https://trello.com/) - Issue tracking and project management tool for developers
   - [Postman](https://www.postman.com/) - Testing tool for REST API
@@ -103,6 +105,6 @@ Postgraduate – Software Tester
     
   - [Orikonsultantka.pl](http://orikonsultantka.pl) - Website created to build a distribution network in Oriflame.
 
-  - Individual project - creating and testing site e-olak.pl
+  - Individual project - creating and testing site e-olak.pl:
     - Board [trello.com](https://trello.com/b/ZNyJkmc2/e-olakpl) - (in progress).
     
