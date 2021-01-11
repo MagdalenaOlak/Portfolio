@@ -67,6 +67,7 @@ Postgraduate – Software Tester
     - Photography workshops
 
 ## Certificates
+  - [Java Certification Course](https://www.programminghub.io/certificates) - ID: 1610296979565
   - [EITICA Information Technologies Telework Competencies Programme](https://eitci.org/validate) - ID: EITCA/TC/FMP14004773 
   - [EITC/INT/JOOM Website design and content managment systems fundamentals (Joomla) Programme](https://eitci.org/validate) - ID: EITC/INT/JOOM/NSB14004773
 
