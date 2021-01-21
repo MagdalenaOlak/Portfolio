@@ -106,6 +106,7 @@ Postgraduate – Software Tester
 
   - Individual project - creating and testing site e-olak.pl:
     - Kanban Board [trello.com](https://trello.com/b/ZNyJkmc2/e-olakpl) - (in progress).
+    
   
 
   - [e-Olak.pl](http://e-olak.pl) - Website prepared for future Software Testers. In the articles, you will learn what problems testers are facing.
