@@ -36,6 +36,7 @@ My name is Magdalena Olak. I discovered the profession of tester relatively rece
   - CSS
   - PHP basics
   - UML
+  - Ability to install virtual machines to test applications in a safe, sandboxed environment.
 
 ## Professional Education
 2020.10 - now - University of Information Technology and Management in Rzeszów, 
@@ -106,5 +107,6 @@ Postgraduate – Software Tester
   - Individual project - creating and testing site e-olak.pl:
     - Kanban Board [trello.com](https://trello.com/b/ZNyJkmc2/e-olakpl) - (in progress).
   
+
   - [e-Olak.pl](http://e-olak.pl) - Website prepared for future Software Testers. In the articles, you will learn what problems testers are facing.
   
