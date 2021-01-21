@@ -36,7 +36,7 @@ My name is Magdalena Olak. I discovered the profession of tester relatively rece
   - CSS
   - PHP basics
   - UML
-  - Ability to install virtual machines to test applications in a safe, sandboxed environment.
+  - Ability to install virtual machines
 
 ## Professional Education
 2020.10 - now - University of Information Technology and Management in Rzeszów, 
