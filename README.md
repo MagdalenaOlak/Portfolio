@@ -19,7 +19,8 @@ My name is Magdalena Olak. I discovered the profession of tester relatively rece
   - [PyCharm](https://www.jetbrains.com/pycharm/) - Integrated development environment
   - [GitLab](https://about.gitlab.com) - Open source web-based DevOps lifecycle tool that provides a Git-repository
   - [Eclipse Modeling Tools](https://www.eclipse.org/downloads/packages/release/juno/sr1/eclipse-modeling-tools) - Tools and runtimes for building model-based applications
-  - GitHub   
+  - GitHub
+  - [VMware Workstation Player](https://www.vmware.com/products/workstation-player.html) - allows you to run a second, isolated operating system on a single PC
     
 
 ## Tech skills
