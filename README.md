@@ -80,8 +80,9 @@ Postgraduate – Software Tester
   - [Git dla Testerów](https://jaktestowac.pl/git/)  
 
 ## Technical Books read
-* Radosław Smilgin - Zawód tester
+* Radosław Smilgin - [Zawód tester](https://ksiegarnia.pwn.pl/Zawod-tester.-Od-decyzji-do-zdobycia-doswiadczenia,743423772,p.html)
 * Piotr Wicherski - [Testowanie Oprogramowania](https://pwicherski.gitbook.io) 
+* Marcin Szeliga - [ABC języka SQL](https://helion.pl/ksiazki/abc-jezyka-sql-marcin-szeliga,abcsql.htm)
 
 ## Blogs read
 
