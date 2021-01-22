@@ -76,7 +76,8 @@ Postgraduate – Software Tester
   - [Scrum and Agile basics - Theory and Practice](https://www.udemy.com/course/scrum-podstawy-teoretyczne-praktyczne-certyfikacja/) - ude.my/UC-DLFGE9QS
   - [Ready to work on TestLink in 100 mins](https://www.udemy.com/course/testlink/) - ude.my/UC-WRFX398B  
   - [Postman - REST API testing](https://www.udemy.com/course/kurs-postman/) - ude.my/UC-V6YBXFPW
-  - [Git dla Testerów](https://jaktestowac.pl/git/) 
+  - [SQL](https://www.sololearn.com)
+  - [Git dla Testerów](https://jaktestowac.pl/git/)  
 
 ## Technical Books read
 * Radosław Smilgin - Zawód tester
