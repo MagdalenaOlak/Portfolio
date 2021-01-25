@@ -87,6 +87,7 @@ Postgraduate – Software Tester
 
 ## Blogs read
 
+* [guru99.com](https://www.guru99.com)
 * [testerzy.pl](http://testerzy.pl)
 * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl)
 * [testerka.pl](http://testerka.pl)
