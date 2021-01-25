@@ -21,6 +21,7 @@ My name is Magdalena Olak. I discovered the profession of tester relatively rece
   - [Eclipse Modeling Tools](https://www.eclipse.org/downloads/packages/release/juno/sr1/eclipse-modeling-tools) - Tools and runtimes for building model-based applications
   - GitHub
   - [VMware Workstation Player](https://www.vmware.com/products/workstation-player.html) - allows you to run a second, isolated operating system on a single PC
+ - [VirtualBox](https://www.virtualbox.org) - a free and open-source hosted hypervisor
     
 
 ## Tech skills
