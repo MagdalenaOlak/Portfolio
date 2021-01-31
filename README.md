@@ -98,7 +98,9 @@ Postgraduate – Software Tester
   - GeekON - Optymalizacja w SQL dla początkujących
   - Testuj.pl - Pierwszy test automatyczny
   - Akademia Kodu - Podstawy programowania
-
+## Skills training
+  - [SQL](https://www.codewars.com/users/magdalena-o) - CodeWars created by the community to strengthen different skills
+  
 ## My bug reports
   - [Bugs reported for Guru99 Demo Site - Bank Project](https://drive.google.com/file/d/1_OIMrUsWhHQH0UySkRRPFyJZ8zO29GT1/view?usp=sharing)
 
