@@ -105,6 +105,8 @@ Postgraduate – Software Tester
 ## My test cases examples
   - [Test cases for site "Tekstowo.pl"](https://drive.google.com/file/d/1ntDtBNFb4GHWhssaQyAfjCglTI6xMgkF/view?usp=sharing)
   - [Test cases for e-Olak.pl (responsive testing)](https://docs.google.com/spreadsheets/d/1nDiDnWB8NnpGTpesefPGGXRVDg4kp8OMRUn5wCkN7cg/edit?usp=sharing)
+  - [Test cases - Guru99 Banking Project](https://docs.google.com/spreadsheets/d/11daAgpAHfilT4yJQmND4xiHN4xhYMWvIQG5AclEiLaE/edit?usp=sharing)
+
 ## My Projects
     
   - [ISTQB w pigułce](https://magdalenaolak.gitbook.io/istqb-w-pigulce/) - A document created for everyone who wants to learn the secrets of ISTQB Foundation Level in an easy and accessible way (work in progress).
