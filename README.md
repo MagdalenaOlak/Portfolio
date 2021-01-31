@@ -99,7 +99,7 @@ Postgraduate – Software Tester
   - Testuj.pl - Pierwszy test automatyczny
   - Akademia Kodu - Podstawy programowania
 ## Skills training
-  - [SQL](https://www.codewars.com/users/magdalena-o) - CodeWars created by the community to strengthen different skills
+  - [SQL](https://www.codewars.com/users/magdalena-o) - CodeWars is created to strengthen different skills (in my case SQL)
   
 ## My bug reports
   - [Bugs reported for Guru99 Demo Site - Bank Project](https://drive.google.com/file/d/1_OIMrUsWhHQH0UySkRRPFyJZ8zO29GT1/view?usp=sharing)
