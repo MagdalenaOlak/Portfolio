@@ -22,7 +22,7 @@ My name is Magdalena Olak. I discovered the profession of tester relatively rece
   - [Eclipse Modeling Tools](https://www.eclipse.org/downloads/packages/release/juno/sr1/eclipse-modeling-tools) - Tools and runtimes for building model-based applications
   - [GitHub](https://github.com/) - A provider of Internet hosting for software development and version control using Git
   - [VMware Workstation Player](https://www.vmware.com/products/workstation-player.html) - allows you to run a second, isolated operating system on a single PC
- - [VirtualBox](https://www.virtualbox.org) - a free and open-source hosted hypervisor
+  - [VirtualBox](https://www.virtualbox.org) - a free and open-source hosted hypervisor
     
 
 ## Tech skills
@@ -99,6 +99,7 @@ Postgraduate – Software Tester
   - GeekON - Optymalizacja w SQL dla początkujących
   - Testuj.pl - Pierwszy test automatyczny
   - Akademia Kodu - Podstawy programowania
+  - [Modelowanie w UML - Jak się przygotować?](https://www.youtube.com/watch?v=T3u-GD-GfjQ&t=2553s)
 ## Skills training
   - [SQL](https://www.codewars.com/users/magdalena-o) - CodeWars is created to strengthen different skills (in my case SQL)
   
