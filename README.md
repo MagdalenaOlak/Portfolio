@@ -16,6 +16,7 @@ My name is Magdalena Olak. I discovered the profession of tester relatively rece
   - [xPath Finder](https://chrome.google.com/webstore/detail/xpath-finder/ihnknokegkbpmofmafnkoadfjkhlogph) - xPath finding tool
   - [Xmind](https://www.xmind.net/), [Mind Meister](https://www.mindmeister.com/) - Mind mapping softwares
   - [draw.io](https://app.diagrams.net/) - Flowchart maker and online diagram software
+  - [bpmn.io](https://bpmn.io) - Simple web-based tooling for BPMN, DMN and CMMN
   - [PyCharm](https://www.jetbrains.com/pycharm/) - Integrated development environment
   - [GitLab](https://about.gitlab.com) - Open source web-based DevOps lifecycle tool that provides a Git-repository
   - [Eclipse Modeling Tools](https://www.eclipse.org/downloads/packages/release/juno/sr1/eclipse-modeling-tools) - Tools and runtimes for building model-based applications
