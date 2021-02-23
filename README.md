@@ -105,7 +105,7 @@ Postgraduate – Software Tester
   
 ## My bug reports
   - [Bugs reported for Guru99 Demo Site - Bank Project](https://drive.google.com/file/d/1_OIMrUsWhHQH0UySkRRPFyJZ8zO29GT1/view?usp=sharing)
-  
+  - [GNC](https://docs.google.com/spreadsheets/d/19YdaAfCHV0Gge0-glh--6EYlniCRa7j5qCHoZWRQZxc/edit?usp=sharing)
 
 ## My test cases examples
   - [Test cases for site "Tekstowo.pl"](https://drive.google.com/file/d/1ntDtBNFb4GHWhssaQyAfjCglTI6xMgkF/view?usp=sharing)
