@@ -112,7 +112,7 @@ Postgraduate – Software Tester
   - [Test cases for e-Olak.pl (responsive testing)](https://docs.google.com/spreadsheets/d/1nDiDnWB8NnpGTpesefPGGXRVDg4kp8OMRUn5wCkN7cg/edit?usp=sharing)
   - [Test cases - Guru99 Banking Project](https://docs.google.com/spreadsheets/d/11daAgpAHfilT4yJQmND4xiHN4xhYMWvIQG5AclEiLaE/edit?usp=sharing)
 
-## My Projects
+## Projects
     
   - [ISTQB w pigułce](https://magdalenaolak.gitbook.io/istqb-w-pigulce/) - A document created for everyone who wants to learn the secrets of ISTQB Foundation Level in an easy and accessible way (work in progress).
 
@@ -123,3 +123,7 @@ Postgraduate – Software Tester
 
   - [e-Olak.pl](http://e-olak.pl) - Website prepared for future Software Testers. In the articles, you will learn what problems testers are facing.
   
+## A little success
+
+  - [uTest.com - Academy Testers of the Week](http://e-olak.pl/images/tester_tygodnia1.jpg
+    )
