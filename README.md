@@ -128,3 +128,8 @@ Postgraduate – Software Tester
 ## A little success
 
   - [uTest.com - Academy Testers of the Week](http://e-olak.pl/images/tester_tygodnia1.jpg)
+
+## Experience
+
+
+[img_1.png](img_1.png)
