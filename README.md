@@ -130,6 +130,7 @@ Postgraduate – Software Tester
   - [uTest.com - Academy Testers of the Week](http://e-olak.pl/images/tester_tygodnia1.jpg)
 
 ## Experience
-
+  2021.03 - now     SoftSystem Sp. z o.o. - Testing Specialist
+  
 
 [img_1.png](img_1.png)
