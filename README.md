@@ -1,7 +1,7 @@
 # Portfolio
 
 ## About me
-My name is Magdalena Olak. I discovered the profession of tester relatively recently and I liked it very much. I knew right away that I could quickly be very good at it because during the last 9 years I have been dealing with creating and testing websites using, among others, Jira, TestLink, GIT, HTTP, CSS, PHP and CMS. I also know the basics of SQL / MySQL. Last year I have completed 3 online courses, Java Certification Course and I have started postgraduate studies in the field of Software Tester. I have set my daily routine on the priority of learning as much as I can in the field of testing. I see the employment as a Manual/Automation Tester or Test Engineer or as a milestone in my professional career thanks to the variety of tasks and the possibility of development. I'm oriented for further development as Software Tester/Software Test Engineer. On this site I would like to share my all gained experience from personal studies and researches. 
+I discovered the profession of a tester relatively recently and I liked it very much. After a year of work, I discovered that I am even more attracted to the field of programming, so I have set my daily routine on the priority of learning as much as I can in the field. Being a software tester has been a milestone in my professional career and the position of programmer is my professional goal thanks to the variety of tasks and the possibility of development.
 
 
 [LinkedIn](https://www.linkedin.com/in/magdalenaolak/)
@@ -39,10 +39,11 @@ My name is Magdalena Olak. I discovered the profession of tester relatively rece
   - Creating diagrams and decision tables
   - HTML
   - CSS
-  - PHP basics
   - UML
   - Ability to set up virtual machines (e.g. Linux) 
   - Java basics
+  - C# basics
+  
 ## Professional Education
 2020.10 - now - University of Information Technology and Management in Rzeszów, 
 Postgraduate – Software Tester
@@ -78,6 +79,7 @@ Postgraduate – Software Tester
   - [EITC/INT/JOOM Website design and content managment systems fundamentals (Joomla) Programme](https://eitci.org/validate) - ID: EITC/INT/JOOM/NSB14004773
 
 ## Courses
+  - Tester to become a developer - an in-company course for testers who want to become programmers covering algorithms, SQL, C # and Java.
   - [Scrum and Agile basics - Theory and Practice](https://www.udemy.com/course/scrum-podstawy-teoretyczne-praktyczne-certyfikacja/) - ude.my/UC-DLFGE9QS
   - [Ready to work on TestLink in 100 mins](https://www.udemy.com/course/testlink/) - ude.my/UC-WRFX398B  
   - [Postman - REST API testing](https://www.udemy.com/course/kurs-postman/) - ude.my/UC-V6YBXFPW
@@ -104,6 +106,7 @@ Postgraduate – Software Tester
   - [Modelowanie w UML - Jak się przygotować?](https://www.youtube.com/watch?v=T3u-GD-GfjQ&t=2553s)
 ## Skills training
   - [SQL](https://www.codewars.com/users/magdalena-o) - CodeWars is created to strengthen different skills (in my case SQL)
+  - [C#](https://www.hackerrank.com/magdalenaolak) - HackerRank koncentruje się na konkurencyjnych wyzwaniach programistycznych (in my case C#)
   
 ## My bug reports
   - [Bugs reported for Guru99 Demo Site - Bank Project](https://drive.google.com/file/d/1_OIMrUsWhHQH0UySkRRPFyJZ8zO29GT1/view?usp=sharing)
@@ -119,9 +122,7 @@ Postgraduate – Software Tester
   - [ISTQB w pigułce](https://magdalenaolak.gitbook.io/istqb-w-pigulce/) - A document created for everyone who wants to learn the secrets of ISTQB Foundation Level in an easy and accessible way (work in progress).
 
   - Individual project - creating and testing site e-olak.pl:
-    - Kanban Board [trello.com](https://trello.com/b/ZNyJkmc2/e-olakpl) - (in progress).
-    
-  
+    - Kanban Board [trello.com](https://trello.com/b/ZNyJkmc2/e-olakpl) - (in progress).    
 
   - [e-Olak.pl](http://e-olak.pl) - Website prepared for future Software Testers. In the articles, you will learn what problems testers are facing.
   
