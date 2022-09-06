@@ -12,8 +12,7 @@ I discovered the profession of a tester relatively recently and I liked it very 
   - [TestLink](https://bitnami.com/stack/testlink) - We-based open-source test management tool
   - [Selenium IDE](https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd) - Open source record and playback test automation for the web
   - [SoupUI](https://www.soapui.org/tools/soapui/) - Testing tool for SOAP and REST APIs  
-  - [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi?hl=pl) - Exploratory testing assistant for Chrome and Firefox
-  - [Mouse Recorder](https://www.mouserecorder.com/) - mouse and keyboard recording macro
+  - [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi?hl=pl) - Exploratory testing assistant for Chrome and Firefox  
   - [xPath Finder](https://chrome.google.com/webstore/detail/xpath-finder/ihnknokegkbpmofmafnkoadfjkhlogph) - xPath finding tool
   - [Xmind](https://www.xmind.net/), [Mind Meister](https://www.mindmeister.com/) - Mind mapping softwares
   - [draw.io](https://app.diagrams.net/) - Flowchart maker and online diagram software
