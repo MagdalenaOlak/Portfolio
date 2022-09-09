@@ -43,6 +43,7 @@ My name is Magdalena Olak. I discovered the profession of a tester relatively re
   - UML
   - Ability to set up virtual machines (e.g. Linux) 
   - Java basics
+  - C# basics
 ## Professional Education
 2020.10 - now - University of Information Technology and Management in Rzeszów, 
 Postgraduate – Software Tester
