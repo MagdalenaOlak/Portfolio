@@ -13,11 +13,8 @@ My name is Magdalena Olak. I discovered the profession of tester relatively rece
   - [Selenium IDE](https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd) - Open source record and playback test automation for the web
   - [SoupUI](https://www.soapui.org/tools/soapui/) - Testing tool for SOAP and REST APIs  
   - [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi?hl=pl) - Exploratory testing assistant for Chrome and Firefox
-  - [Mouse Recorder](https://www.mouserecorder.com/) - mouse and keyboard recording macro
   - [xPath Finder](https://chrome.google.com/webstore/detail/xpath-finder/ihnknokegkbpmofmafnkoadfjkhlogph) - xPath finding tool
-  - [Xmind](https://www.xmind.net/), [Mind Meister](https://www.mindmeister.com/) - Mind mapping softwares
   - [draw.io](https://app.diagrams.net/) - Flowchart maker and online diagram software
-  - [bpmn.io](https://bpmn.io) - Simple web-based tooling for BPMN, DMN and CMMN
   - [PyCharm](https://www.jetbrains.com/pycharm/) - Integrated development environment
   - [GitLab](https://about.gitlab.com) - Open source web-based DevOps lifecycle tool that provides a Git-repository
   - [Eclipse IDE for Java Developers](https://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers) - The essential tools for any Java developer
@@ -43,6 +40,8 @@ My name is Magdalena Olak. I discovered the profession of tester relatively rece
   - UML
   - Ability to set up virtual machines (e.g. Linux) 
   - Java basics
+  - C# basics
+
 ## Professional Education
 2020.10 - now - University of Information Technology and Management in Rzeszów, 
 Postgraduate – Software Tester
@@ -78,6 +77,7 @@ Postgraduate – Software Tester
   - [EITC/INT/JOOM Website design and content managment systems fundamentals (Joomla) Programme](https://eitci.org/validate) - ID: EITC/INT/JOOM/NSB14004773
 
 ## Courses
+  - Tester to become a developer - an in-company course for testers who want to become programmers covering algorithms, SQL, C # and Java.
   - [Scrum and Agile basics - Theory and Practice](https://www.udemy.com/course/scrum-podstawy-teoretyczne-praktyczne-certyfikacja/) - ude.my/UC-DLFGE9QS
   - [Ready to work on TestLink in 100 mins](https://www.udemy.com/course/testlink/) - ude.my/UC-WRFX398B  
   - [Postman - REST API testing](https://www.udemy.com/course/kurs-postman/) - ude.my/UC-V6YBXFPW
