@@ -1,7 +1,8 @@
 # Portfolio
 
 ## About me
-I discovered the profession of a tester relatively recently and I liked it very much. After a year of work, I discovered that I am even more attracted to the field of programming, so I have set my daily routine on the priority of learning as much as I can in the field. Being a software tester has been a milestone in my professional career and the position of programmer is my professional goal thanks to the variety of tasks and the possibility of development.
+My name is Magdalena Olak. I discovered the profession of tester relatively recently and I liked it very much. I knew right away that I could quickly be very good at it because during the last 9 years I have been dealing with creating and testing websites using, among others, Jira, TestLink, GIT, HTTP, CSS, PHP and CMS. I also know the basics of SQL / MySQL. Last year I have completed 3 online courses, Java Certification Course and I have started postgraduate studies in the field of Software Tester. I have set my daily routine on the priority of learning as much as I can in the field of testing. I see the employment as a Manual/Automation Tester or Test Engineer or as a milestone in my professional career thanks to the variety of tasks and the possibility of development. I'm oriented for further development as Software Tester/Software Test Engineer. On this site I would like to share my all gained experience from personal studies and researches. 
+
 
 [LinkedIn](https://www.linkedin.com/in/magdalenaolak/)
 
@@ -12,8 +13,11 @@ I discovered the profession of a tester relatively recently and I liked it very 
   - [Selenium IDE](https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd) - Open source record and playback test automation for the web
   - [SoupUI](https://www.soapui.org/tools/soapui/) - Testing tool for SOAP and REST APIs  
   - [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi?hl=pl) - Exploratory testing assistant for Chrome and Firefox
+  - [Mouse Recorder](https://www.mouserecorder.com/) - mouse and keyboard recording macro
   - [xPath Finder](https://chrome.google.com/webstore/detail/xpath-finder/ihnknokegkbpmofmafnkoadfjkhlogph) - xPath finding tool
+  - [Xmind](https://www.xmind.net/), [Mind Meister](https://www.mindmeister.com/) - Mind mapping softwares
   - [draw.io](https://app.diagrams.net/) - Flowchart maker and online diagram software
+  - [bpmn.io](https://bpmn.io) - Simple web-based tooling for BPMN, DMN and CMMN
   - [PyCharm](https://www.jetbrains.com/pycharm/) - Integrated development environment
   - [GitLab](https://about.gitlab.com) - Open source web-based DevOps lifecycle tool that provides a Git-repository
   - [Eclipse IDE for Java Developers](https://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers) - The essential tools for any Java developer
@@ -39,8 +43,6 @@ I discovered the profession of a tester relatively recently and I liked it very 
   - UML
   - Ability to set up virtual machines (e.g. Linux) 
   - Java basics
-  - C# basics
-
 ## Professional Education
 2020.10 - now - University of Information Technology and Management in Rzeszów, 
 Postgraduate – Software Tester
@@ -76,7 +78,6 @@ Postgraduate – Software Tester
   - [EITC/INT/JOOM Website design and content managment systems fundamentals (Joomla) Programme](https://eitci.org/validate) - ID: EITC/INT/JOOM/NSB14004773
 
 ## Courses
-  - Tester to become a developer - an in-company course for testers who want to become programmers covering algorithms, SQL, C # and Java.
   - [Scrum and Agile basics - Theory and Practice](https://www.udemy.com/course/scrum-podstawy-teoretyczne-praktyczne-certyfikacja/) - ude.my/UC-DLFGE9QS
   - [Ready to work on TestLink in 100 mins](https://www.udemy.com/course/testlink/) - ude.my/UC-WRFX398B  
   - [Postman - REST API testing](https://www.udemy.com/course/kurs-postman/) - ude.my/UC-V6YBXFPW
