@@ -107,10 +107,10 @@ Postgraduate – Software Tester
 ## Skills training
   - [SQL](https://www.codewars.com/users/magdalena-o) - CodeWars is created to strengthen different skills (in my case SQL)
   - [SQL & C#](https://www.hackerrank.com/magdalenaolak) - HackerRank - the platform that enables tech recruiters and hiring managers to objectively evaluate talent at every stage of the recruiting process.
-
+  - [GitHub](https://www.codewars.com/users/magdalena-o) - CodeWars
 ## My bug reports
   - [Bugs reported for Guru99 Demo Site - Bank Project](https://drive.google.com/file/d/1_OIMrUsWhHQH0UySkRRPFyJZ8zO29GT1/view?usp=sharing)
-  - [GNC](https://docs.google.com/spreadsheets/d/19YdaAfCHV0Gge0-glh--6EYlniCRa7j5qCHoZWRQZxc/edit?usp=sharing)
+  - [GNC](https://github.com/MagdalenaOlak) - My projects and solved tasks.
 
 ## My test cases examples
   - [Test cases for site "Tekstowo.pl"](https://drive.google.com/file/d/1ntDtBNFb4GHWhssaQyAfjCglTI6xMgkF/view?usp=sharing)
