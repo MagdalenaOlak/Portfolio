@@ -22,7 +22,7 @@ My name is Magdalena Olak. I discovered the profession of a tester relatively re
   - [GitLab](https://about.gitlab.com) - Open source web-based DevOps lifecycle tool that provides a Git-repository
   - [Eclipse IDE for Java Developers](https://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers) - The essential tools for any Java developer
   - [Eclipse Modeling Tools](https://www.eclipse.org/downloads/packages/release/juno/sr1/eclipse-modeling-tools) - Tools and runtimes for building model-based applications
-  - [GitHub](https://github.com/) - A provider of Internet hosting for software development and version control using Git
+  - [GitHub](https://github.com/MagdalenaOlak) - A provider of Internet hosting for software development and version control using Git
   - [VMware Workstation Player](https://www.vmware.com/products/workstation-player.html) - allows you to run a second, isolated operating system on a single PC
   - [VirtualBox](https://www.virtualbox.org) - a free and open-source hosted hypervisor
     
