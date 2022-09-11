@@ -77,6 +77,7 @@ Postgraduate – Software Tester
   - [Java Certification Course](https://www.programminghub.io/certificates) - ID: 1610296979565
   - [EITICA Information Technologies Telework Competencies Programme](https://eitci.org/validate) - ID: EITCA/TC/FMP14004773 
   - [EITC/INT/JOOM Website design and content managment systems fundamentals (Joomla) Programme](https://eitci.org/validate) - ID: EITC/INT/JOOM/NSB14004773
+  - [SQL (Basics)](https://www.hackerrank.com/certificates/bd4f29e6e38d?utm_medium=email&utm_source=mail_template_1393&utm_campaign=hrc_skills_certificate)  - HackerRank
 
 ## Courses
   - [Scrum and Agile basics - Theory and Practice](https://www.udemy.com/course/scrum-podstawy-teoretyczne-praktyczne-certyfikacja/) - ude.my/UC-DLFGE9QS
