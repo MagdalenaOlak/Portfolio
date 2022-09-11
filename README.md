@@ -45,7 +45,7 @@ My name is Magdalena Olak. I discovered the profession of a tester relatively re
   - Java basics
   - C# basics
 ## Professional Education
-2020.10 - now - University of Information Technology and Management in Rzeszów, 
+2020.10 - 2021.06 - University of Information Technology and Management in Rzeszów, 
 Postgraduate – Software Tester
 
     - Software testing planning
@@ -59,7 +59,7 @@ Postgraduate – Software Tester
     - Selected management elements in IT projects
     - Testers in work teams
       
-2014 - 2015 - Catholic University of Lublin, Poland - Postgraduate studies of Internet Technology and Multimedia Information Processing
+2014.10 - 2015.06 - Catholic University of Lublin, Poland - Postgraduate studies of Internet Technology and Multimedia Information Processing
     
     - Website design with the use of HTML and CSS
     - Programming in PHP
