@@ -25,6 +25,7 @@ My name is Magdalena Olak. I discovered the profession of a tester relatively re
   - [GitHub](https://github.com/MagdalenaOlak) - A provider of Internet hosting for software development and version control using Git
   - [VMware Workstation Player](https://www.vmware.com/products/workstation-player.html) - allows you to run a second, isolated operating system on a single PC
   - [VirtualBox](https://www.virtualbox.org) - a free and open-source hosted hypervisor
+  - [Visual Studio Code](https://code.visualstudio.com) - Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications
     
 
 ## Tech skills
