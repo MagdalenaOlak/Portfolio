@@ -1,12 +1,16 @@
 # Portfolio
 
 ## About me
-My name is Magdalena Olak. I discovered the profession of a tester relatively recently and I liked it very much. After a year of work, I discovered that I am even more attracted to the field of programming, so I have set my daily routine on the priority of learning as much as I can in the field. Being a software tester has been a milestone in my professional career and the position of programmer is my professional goal thanks to the variety of tasks and the possibility of development.
-
+My name is Magdalena Olak. I got to know the profession of a tester relatively recently and I liked it very much. After a year of work, I discovered that I am even more into programming, so my daily routine is prioritizing learning as much as possible in the field. Being a software tester has been a milestone in my professional career and the position of developer is my professional goal due to the variety of tasks and development opportunities.
 
 [LinkedIn](https://www.linkedin.com/in/magdalenaolak/)
 
 ## Tools
+  - [Visual Studio Code](https://code.visualstudio.com) - Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications  
+  - [Eclipse IDE for Java Developers](https://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers) - The essential tools for any Java developer
+  - [PyCharm](https://www.jetbrains.com/pycharm/) - Integrated development environment
+  - [GitLab](https://about.gitlab.com) - Open source web-based DevOps lifecycle tool that provides a Git-repository
+  - [GitHub](https://github.com/MagdalenaOlak) - A provider of Internet hosting for software development and version control using Git
   - [Jira](https://www.atlassian.com/software/jira0), [Trello](https://trello.com/) - Issue tracking and project management tool for developers
   - [Postman](https://www.postman.com/) - Testing tool for REST API
   - [TestLink](https://bitnami.com/stack/testlink) - We-based open-source test management tool
@@ -18,33 +22,30 @@ My name is Magdalena Olak. I discovered the profession of a tester relatively re
   - [Xmind](https://www.xmind.net/), [Mind Meister](https://www.mindmeister.com/) - Mind mapping softwares
   - [draw.io](https://app.diagrams.net/) - Flowchart maker and online diagram software
   - [bpmn.io](https://bpmn.io) - Simple web-based tooling for BPMN, DMN and CMMN
-  - [PyCharm](https://www.jetbrains.com/pycharm/) - Integrated development environment
-  - [GitLab](https://about.gitlab.com) - Open source web-based DevOps lifecycle tool that provides a Git-repository
-  - [Eclipse IDE for Java Developers](https://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers) - The essential tools for any Java developer
   - [Eclipse Modeling Tools](https://www.eclipse.org/downloads/packages/release/juno/sr1/eclipse-modeling-tools) - Tools and runtimes for building model-based applications
-  - [GitHub](https://github.com/MagdalenaOlak) - A provider of Internet hosting for software development and version control using Git
   - [VMware Workstation Player](https://www.vmware.com/products/workstation-player.html) - allows you to run a second, isolated operating system on a single PC
   - [VirtualBox](https://www.virtualbox.org) - a free and open-source hosted hypervisor
-  - [Visual Studio Code](https://code.visualstudio.com) - Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications
-    
+  
 
 ## Tech skills
+  - C# basics
+  - Java basics
+  - SQL
+  - GIT
+  - HTML
+  - CSS    
+  - SCRUM
   - Creating test cases
   - Software testing
-  - Reporting bugs
-  - SQL
-  - GIT    
+  - Reporting bugs      
   - DevTools
-  - SCRUM  
   - Finding unique CSS Selectors and xPaths
-  - Creating diagrams and decision tables
-  - HTML
-  - CSS
-  - PHP basics
+  - Creating diagrams and decision tables    
   - UML
+  - PHP basics
   - Ability to set up virtual machines (e.g. Linux) 
-  - Java basics
-  - C# basics
+  
+  
 ## Professional Education
 2020.10 - 2021.06 - University of Information Technology and Management in Rzeszów, 
 Postgraduate – Software Tester
