@@ -1,7 +1,7 @@
 # Portfolio
 
 ## About me
-My name is Magdalena Olak. I am a software tester. I found out about this profession relatively recently and I liked it very much. After a year of work, I discovered that I am even more into programming, so my daily routine is prioritizing learning as much as possible in the field. Being a software tester has been a milestone in my professional career and the position of developer is my professional goal due to the variety of tasks and development opportunities.
+My name is Magdalena Olak. I am a software tester. I found out about this profession relatively recently and I liked it very much. After two years of work, I care even more about development, so I have set my daily routine on the priority of learning as much as I can in the field, including test automation. Being a software tester has been a milestone in my professional career and the position of developer is my professional goal due to the variety of tasks and development opportunities.
 
 [LinkedIn](https://www.linkedin.com/in/magdalenaolak/)
 
