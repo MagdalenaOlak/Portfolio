@@ -110,6 +110,8 @@ Postgraduate – Software Tester
 ## Skills training
   - [SQL](https://www.codewars.com/users/magdalena-o) - CodeWars is created to strengthen different skills (in my case SQL)
   - [SQL & JAVA](https://www.hackerrank.com/magdalenaolak) - HackerRank - the platform that enables tech recruiters and hiring managers to objectively evaluate talent at every stage of the recruiting process.
+    - Examples of my SQL solutions: [GitHub](https://github.com/MagdalenaOlak/HackerRank_SQL_solutions)
+    - Examples of my Java solutions: [GitHub](https://github.com/MagdalenaOlak/HackerRank_JAVA_solutions)
   - [GitHub](https://github.com/MagdalenaOlak) - My projects and solved tasks.
   
 ## My bug reports
