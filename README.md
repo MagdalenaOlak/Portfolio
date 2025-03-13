@@ -1,11 +1,12 @@
 # Portfolio
 
 ## About me
-My name is Magdalena Olak. I am a software tester. I found out about this profession relatively recently and I liked it very much. After two years of work, I care even more about development, so I have set my daily routine on the priority of learning as much as I can in the field, including test automation. Being a software tester has been a milestone in my professional career and the position of developer is my professional goal due to the variety of tasks and development opportunities.
+My name is Magdalena Olak. I an automatin tester. I found out about this profession relatively recently and I liked it very much so I have set my daily routine on the priority of learning as much as I can in the field.
 
 [LinkedIn](https://www.linkedin.com/in/magdalenaolak/)
 
 ## Tools
+  - [Cypress](https://www.cypress.io/) - This is a frontend test automation tool for web applications, built on JavaScript.
   - [Visual Studio Code](https://code.visualstudio.com) - Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications  
   - [Eclipse IDE for Java Developers](https://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers) - The essential tools for any Java developer
   - [PyCharm](https://www.jetbrains.com/pycharm/) - Integrated development environment
@@ -28,6 +29,7 @@ My name is Magdalena Olak. I am a software tester. I found out about this profes
   
 
 ## Tech skills
+  - JavaScript
   - C# basics
   - Java basics
   - SQL
@@ -37,6 +39,7 @@ My name is Magdalena Olak. I am a software tester. I found out about this profes
   - SCRUM
   - Creating test cases
   - Software testing
+  - Automation testing
   - Reporting bugs      
   - DevTools
   - Finding unique CSS Selectors and xPaths
@@ -127,19 +130,18 @@ Postgraduate – Software Tester
     
   - [ISTQB w pigułce](https://magdalenaolak.gitbook.io/istqb-w-pigulce/) - A document created for everyone who wants to learn the secrets of ISTQB Foundation Level in an easy and accessible way (work in progress).
 
-  - Individual project - creating and testing site e-olak.pl:
-    - Kanban Board [trello.com](https://trello.com/b/ZNyJkmc2/e-olakpl) - (in progress).
+  - Kanban Board [trello.com](https://trello.com/b/ZNyJkmc2/e-olakpl) - (in progress).
     
   
-
-  - [e-Olak.pl](http://e-olak.pl) - Website prepared for future Software Testers. In the articles, you will learn what problems testers are facing.
   
 ## A little success
 
   - [uTest.com - Academy Testers of the Week](http://e-olak.pl/images/tester_tygodnia1.jpg)
 
 ## Experience
-  2021.03 - now     
+  2025.01 - now     
+  Automation Tester - SoftSystem Sp. z o.o. 
+  2021.03 - 2024.12     
   Testing Specialist - SoftSystem Sp. z o.o. 
   
 
